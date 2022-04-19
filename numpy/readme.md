@@ -1,2 +1,1 @@
-# What's the point of using numpy.array if we already have list[] DS? 🤔
-
+Please refer to the [numpy documentation](./numpy.ipynb) for detail!
